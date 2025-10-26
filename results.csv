@@ -1,0 +1,21 @@
+text,label,prediction,confidence
+Government announces new economic reforms to boost employment,real,real,0.7093037550345949
+Scientists discover water on Mars after new research,real,real,0.6915642564358159
+Breaking: Celebrity admits to being a robot from outer space,fake,real,0.5027810229137395
+India launches new satellite successfully into orbit,real,real,0.7103760058321015
+Local man claims to have seen a dragon in his backyard,fake,real,0.5027810229137395
+New vaccine found to be 95% effective in preventing disease,real,real,0.7103760058321015
+"Aliens found living under the Pacific Ocean, experts confirm",fake,fake,0.5104911597054931
+Stock market hits record high amid positive earnings,real,real,0.6941629145942148
+Doctors warn against using toothpaste as sunscreen,real,real,0.6941629145942148
+"Time traveler wins lottery multiple times, officials confused",fake,real,0.6256979560847775
+Government increases budget for education sector,real,real,0.6106823871687732
+Scientists confirm that eating chocolate cures all diseases,fake,fake,0.5135020902272128
+New electric car model achieves 1000 km range,real,real,0.7084274664778049
+City plans to plant one million trees in next five years,real,real,0.6941629145942148
+Scientists say earth is flat and covered by glass dome,fake,fake,0.5006065068492186
+Tech company introduces phone with invisible screen,fake,real,0.6256979560847775
+School introduces AI-based learning system,real,real,0.6256979560847775
+Politician promises free Wi-Fi for all citizens,real,real,0.6941629145942148
+Study shows that sleeping less than 2 hours increases IQ,fake,real,0.5027810229137395
+New law bans use of plastic bags nationwide,real,real,0.7093037550345949
